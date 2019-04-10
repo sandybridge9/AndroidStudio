@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent" android:background="@drawable/spacealiensmenu">
+
+    <TextView
+        android:id="@+id/menuField"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="80dp"
+        android:text="@string/menuField"
+        android:textSize="60dp" />
+
+    <Button
+        android:id="@+id/startButton"
+        android:layout_width="120dp"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginBottom="350dp"
+        android:background="@drawable/button"
+        android:text="@string/startButton"
+        android:textColor="@color/gettingStarted"
+        android:textSize="12dp" />
+
+    <Button
+        android:id="@+id/aboutButton"
+        android:layout_width="120dp"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginBottom="250dp"
+        android:background="@drawable/button"
+        android:text="@string/aboutButton"
+        android:textColor="@color/gettingStarted"
+        android:textSize="12dp" />
+
+    <Button
+        android:id="@+id/exitButton"
+        android:layout_width="120dp"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginBottom="150dp"
+        android:background="@drawable/button"
+        android:text="@string/exitButton"
+        android:textColor="@color/gettingStarted"
+        android:textSize="12dp" />
+</RelativeLayout>

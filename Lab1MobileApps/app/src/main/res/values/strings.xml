@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Lab1</string>
+
+    <string name="button">ADD</string>
+    <string name="sortButton">Button to sort the list alphabetically</string>
+    <string name="secondActivityButton">Second Activity</string>
+    <string name="thirdActivityButton">Third Activity</string>
+    <string name="textfield">Add new Data to be displayed in Activity no. 2 (title and description): </string>
+    <string name="filterTextField">Start typing title of the entry you want to filter out the results: </string>
+</resources>

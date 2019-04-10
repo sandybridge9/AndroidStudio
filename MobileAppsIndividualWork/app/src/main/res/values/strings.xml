@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Morsify</string>
+    <string name="toMainMenuButton">Main Menu</string>
+    <string name="title">Morsify</string>
+    <string name="gettingStarted">Tap the Main Menu button to get started</string>
+
+    <string name="menuField">Main Menu</string>
+    <string name="startButton">Start</string>
+    <string name="aboutButton">About</string>
+    <string name="exitButton">Exit</string>
+
+    <string name="aboutField">About</string>
+    <string name="summaryField">A simple app that translates latin written language to morse code.</string>
+    <string name="createdByField">Created by: Tadas Laurinaitis</string>
+    <string name="appVersionField">App version: 1.0</string>
+
+    <string name="translatorField">Translator</string>
+    <string name="textToTranslateField">Text to translate: </string>
+    <string name="translateButton">Translate</string>
+    <string name="translatedTextField">Translated text: </string>
+    <string name="translatedText">*morse code will appear here*</string>
+    <string name="flashButton">Flash</string>
+</resources>

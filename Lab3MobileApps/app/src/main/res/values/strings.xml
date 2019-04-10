@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Lab3MobileApps</string>
+    <string name="x">X</string>
+    <string name="y">Y</string>
+    <string name="z">Z</string>
+    <string name="no_sensor">No sensor found</string>
+    <string name="stop">Stop</string>
+    <string name="start">Stop/Start</string>
+    <string name="latitude_text">Latitude:/Start</string>
+    <string name="longitude_text">Longitude:</string>Coordinates_text
+    <string name="Coordinates_text">Coordinates:</string>
+    <string name="CoordinatesNET_text">Coordinates NET:</string>
+    <string name="compass">Compass</string>
+</resources>
